@@ -20,7 +20,7 @@ Em seguida, acesse a pasta:
 cd frontend-online-store
 ```
 
-Por fim, dê o comando para iniciar a aplicação no navegador:
+Por fim, dê o comando no terminal para iniciar a aplicação no navegador:
 
 ```
 npm start

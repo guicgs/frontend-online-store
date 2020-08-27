@@ -2,7 +2,7 @@
 
 Esta aplicação foi desenvolvida em grupo, juntamente com [Júlio Cézar](https://github.com/Wxhbr) e [Lucas Werner](https://github.com/lucas-werner), para um projeto como estudante da escola de programação Trybe.
 
-Este projeto é uma versão simplificada, sem persistência no banco de dados, de uma loja online na qual os usuários e as usuárias poderão:
+Este projeto é uma versão simplificada, sem persistência no banco de dados, de uma loja online, na qual os usuários e as usuárias poderão:
   - Buscar produtos por termos e categorias a partir da _API do Mercado Livre_;
   - Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
   - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;

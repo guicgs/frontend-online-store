@@ -26,4 +26,4 @@ Por fim, dê o comando para iniciar a aplicação no navegador:
 npm start
 ```
 
-Caso tenha interesse, você pode acessar o histporico de desenvolvimento do projeto por meio dos commits originais [neste link](https://github.com/tryber/sd-02-week14-project-frontend-online-store-3)
+Caso tenha interesse, você pode acessar o histórico de desenvolvimento do projeto por meio dos commits originais [neste link](https://github.com/tryber/sd-02-week14-project-frontend-online-store-3)
